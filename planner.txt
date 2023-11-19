@@ -1,0 +1,34 @@
+Button:
+1. Orange when nothing done
+2. Black when mouse hover over
+3. White when clicked
+4. Dotted border after click
+
+Login:
+1. Error dialog on invalid login
+2. Success dialog on successful login
+3. Login button becomes "Logout"
+
+Textfields:
+1. Username hover : "Enter username"
+2. Password hover : "Enter password"
+3. Hover texts are in black
+
+
+login.css
+
+.button{
+display:block
+}
+
+.button:hover{
+color:white
+}
+
+
+
+IMPROVEMENTS ON LOGIN
+11. stroked border on button when clicked
+
+
+
